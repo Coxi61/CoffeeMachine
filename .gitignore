@@ -1,0 +1,248 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/production/classes/
+/Topics/Array/Declarations/out/
+/Topics/Array/Declarations/out/production/classes/
+/Topics/Array/Determine the output/out/
+/Topics/Array/Determine the output/out/production/classes/
+/Topics/Array/Equal arrays/out/
+/Topics/Array/Equal arrays/out/production/classes/
+/Topics/Array/Initializing an array of integers/out/
+/Topics/Array/Initializing an array of integers/out/production/classes/
+/Topics/Array/Initializing an array of longs/out/
+/Topics/Array/Initializing an array of longs/out/production/classes/
+/Topics/Array/The last element of an array/out/
+/Topics/Array/The last element of an array/out/production/classes/
+/Topics/Array/Theory/out/
+/Topics/Array/Theory/out/production/classes/
+/Topics/Arrays as parameters/Get first and last elements/out/
+/Topics/Arrays as parameters/Get first and last elements/out/production/classes/
+/Topics/Arrays as parameters/Inverse boolean flags/out/
+/Topics/Arrays as parameters/Inverse boolean flags/out/production/classes/
+/Topics/Arrays as parameters/Theory/out/
+/Topics/Arrays as parameters/Theory/out/production/classes/
+/Topics/Arrays as parameters/Varargs/out/
+/Topics/Arrays as parameters/Varargs/out/production/classes/
+/Topics/Arrays as parameters/Varargs method invocation/out/
+/Topics/Arrays as parameters/Varargs method invocation/out/production/classes/
+/Topics/Branching statements/Bus tour/out/
+/Topics/Branching statements/Bus tour/out/production/classes/
+/Topics/Branching statements/Even or odd/out/
+/Topics/Branching statements/Even or odd/out/production/classes/
+/Topics/Branching statements/The sequence/out/
+/Topics/Branching statements/The sequence/out/production/classes/
+/Topics/Branching statements/Theory/out/
+/Topics/Branching statements/Theory/out/production/classes/
+/Topics/Calling a method/Abs method/out/
+/Topics/Calling a method/Abs method/out/production/classes/
+/Topics/Calling a method/Area of parallelogram/out/
+/Topics/Calling a method/Area of parallelogram/out/production/classes/
+/Topics/Calling a method/Call me awesome/out/
+/Topics/Calling a method/Call me awesome/out/production/classes/
+/Topics/Calling a method/Correct names for methods/out/
+/Topics/Calling a method/Correct names for methods/out/production/classes/
+/Topics/Calling a method/Method invocation/out/
+/Topics/Calling a method/Method invocation/out/production/classes/
+/Topics/Calling a method/Theory/out/
+/Topics/Calling a method/Theory/out/production/classes/
+/Topics/Comments/Incorrect comments/out/
+/Topics/Comments/Incorrect comments/out/production/classes/
+/Topics/Comments/Printing only the longest line/out/
+/Topics/Comments/Printing only the longest line/out/production/classes/
+/Topics/Comments/The forgotten comments/out/
+/Topics/Comments/The forgotten comments/out/production/classes/
+/Topics/Comments/Theory/out/
+/Topics/Comments/Theory/out/production/classes/
+/Topics/Comments/Uncomment a line/out/
+/Topics/Comments/Uncomment a line/out/production/classes/
+/Topics/Conditional statement/A correct example/out/
+/Topics/Conditional statement/A correct example/out/production/classes/
+/Topics/Conditional statement/An output of the code/out/
+/Topics/Conditional statement/An output of the code/out/production/classes/
+/Topics/Conditional statement/Check a number is positive/out/
+/Topics/Conditional statement/Check a number is positive/out/production/classes/
+/Topics/Conditional statement/Healthy sleep/out/
+/Topics/Conditional statement/Healthy sleep/out/production/classes/
+/Topics/Conditional statement/Statements/out/
+/Topics/Conditional statement/Statements/out/production/classes/
+/Topics/Conditional statement/The army of units/out/
+/Topics/Conditional statement/The army of units/out/production/classes/
+/Topics/Conditional statement/The condition to travel around the world/out/
+/Topics/Conditional statement/The condition to travel around the world/out/production/classes/
+/Topics/Conditional statement/Theory/out/
+/Topics/Conditional statement/Theory/out/production/classes/
+/Topics/Constructor/Geometric cube/out/
+/Topics/Constructor/Geometric cube/out/production/classes/
+/Topics/Declaring a method/Calculating factorials/out/
+/Topics/Declaring a method/Calculating factorials/out/production/classes/
+/Topics/Declaring a method/Sum of numbers in the range/out/
+/Topics/Declaring a method/Sum of numbers in the range/out/production/classes/
+/Topics/Declaring a method/The elements of a method/out/
+/Topics/Declaring a method/The elements of a method/out/production/classes/
+/Topics/Declaring a method/The sign of a number/out/
+/Topics/Declaring a method/The sign of a number/out/production/classes/
+/Topics/Declaring a method/Theory/out/
+/Topics/Declaring a method/Theory/out/production/classes/
+/Topics/Declaring a method/Vowel or not/out/
+/Topics/Declaring a method/Vowel or not/out/production/classes/
+/Topics/Defining classes/Books/out/
+/Topics/Defining classes/Books/out/production/classes/
+/Topics/Defining classes/Correct fields/out/
+/Topics/Defining classes/Correct fields/out/production/classes/
+/Topics/Defining classes/Inner boxes/out/
+/Topics/Defining classes/Inner boxes/out/production/classes/
+/Topics/Defining classes/Theory/out/
+/Topics/Defining classes/Theory/out/production/classes/
+/Topics/Enums in Java/Days of week/out/
+/Topics/Enums in Java/Days of week/out/production/classes/
+/Topics/Enums in Java/Hidden enumeration/out/
+/Topics/Enums in Java/Hidden enumeration/out/production/classes/
+/Topics/Functional decomposition/Calculator with four methods/out/
+/Topics/Functional decomposition/Calculator with four methods/out/production/classes/
+/Topics/Functional decomposition/Create a full name/out/
+/Topics/Functional decomposition/Create a full name/out/production/classes/
+/Topics/Functional decomposition/Decompose a math function/out/
+/Topics/Functional decomposition/Decompose a math function/out/production/classes/
+/Topics/Functional decomposition/How to improve a compound program/out/
+/Topics/Functional decomposition/How to improve a compound program/out/production/classes/
+/Topics/Functional decomposition/Items of functional decomposition/out/
+/Topics/Functional decomposition/Items of functional decomposition/out/production/classes/
+/Topics/Functional decomposition/Roots of quadratic equation/out/
+/Topics/Functional decomposition/Roots of quadratic equation/out/production/classes/
+/Topics/Functional decomposition/Theory/out/
+/Topics/Functional decomposition/Theory/out/production/classes/
+/Topics/Functional decomposition/Why decompose a program/out/
+/Topics/Functional decomposition/Why decompose a program/out/production/classes/
+/Topics/Instance methods/Complex numbers/out/
+/Topics/Instance methods/Complex numbers/out/production/classes/
+/Topics/Instance methods/Counter/out/
+/Topics/Instance methods/Counter/out/production/classes/
+/Topics/Instance methods/Patient needs a doctor/out/
+/Topics/Instance methods/Patient needs a doctor/out/production/classes/
+/Topics/Instance methods/Simulating a clock/out/
+/Topics/Instance methods/Simulating a clock/out/production/classes/
+/Topics/Instance methods/Theory/out/
+/Topics/Instance methods/Theory/out/production/classes/
+/Topics/Integer types and operations/Arithmetic expression/out/
+/Topics/Integer types and operations/Arithmetic expression/out/production/classes/
+/Topics/Integer types and operations/Calculate the digit/out/
+/Topics/Integer types and operations/Calculate the digit/out/production/classes/
+/Topics/Integer types and operations/Desks/out/
+/Topics/Integer types and operations/Desks/out/production/classes/
+/Topics/Integer types and operations/Difference of times/out/
+/Topics/Integer types and operations/Difference of times/out/production/classes/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/production/classes/
+/Topics/Integer types and operations/Reading integer numbers/out/
+/Topics/Integer types and operations/Reading integer numbers/out/production/classes/
+/Topics/Integer types and operations/Reversing/out/
+/Topics/Integer types and operations/Reversing/out/production/classes/
+/Topics/Integer types and operations/Tens digit/out/
+/Topics/Integer types and operations/Tens digit/out/production/classes/
+/Topics/Integer types and operations/Theory/out/
+/Topics/Integer types and operations/Theory/out/production/classes/
+/Topics/Iterating over arrays/Find the sum/out/
+/Topics/Iterating over arrays/Find the sum/out/production/classes/
+/Topics/Iterating over arrays/Individual taxes/out/
+/Topics/Iterating over arrays/Individual taxes/out/production/classes/
+/Topics/Iterating over arrays/Select loops/out/
+/Topics/Iterating over arrays/Select loops/out/production/classes/
+/Topics/Iterating over arrays/Select one loop/out/
+/Topics/Iterating over arrays/Select one loop/out/production/classes/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Iterating over arrays/The sum of array elements/out/
+/Topics/Iterating over arrays/The sum of array elements/out/production/classes/
+/Topics/Iterating over arrays/Theory/out/
+/Topics/Iterating over arrays/Theory/out/production/classes/
+/Topics/Iterating over arrays/Triples/out/
+/Topics/Iterating over arrays/Triples/out/production/classes/
+/Topics/Objects/Preparing full name/out/
+/Topics/Objects/Preparing full name/out/production/classes/
+/Topics/Primitive and reference types/Code with nulls/out/
+/Topics/Primitive and reference types/Code with nulls/out/production/classes/
+/Topics/Primitive and reference types/Creating a primitive/out/
+/Topics/Primitive and reference types/Creating a primitive/out/production/classes/
+/Topics/Primitive and reference types/Creating a reference type/out/
+/Topics/Primitive and reference types/Creating a reference type/out/production/classes/
+/Topics/Primitive and reference types/The assignment/out/
+/Topics/Primitive and reference types/The assignment/out/production/classes/
+/Topics/Primitive and reference types/Theory/out/
+/Topics/Primitive and reference types/Theory/out/production/classes/
+/Topics/Relational operators/Check the sum/out/
+/Topics/Relational operators/Check the sum/out/production/classes/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/
+/Topics/Relational operators/Check the value (1)/out/
+/Topics/Relational operators/Check the value (1)/out/production/classes/
+/Topics/Relational operators/Exactly one parameter is positive/out/
+/Topics/Relational operators/Exactly one parameter is positive/out/production/classes/
+/Topics/Relational operators/Existing operators/out/
+/Topics/Relational operators/Existing operators/out/production/classes/
+/Topics/Relational operators/Groundhogs at a party/out/
+/Topics/Relational operators/Groundhogs at a party/out/production/classes/
+/Topics/Relational operators/Job offer/out/
+/Topics/Relational operators/Job offer/out/production/classes/
+/Topics/Relational operators/Possible values of a variable/out/
+/Topics/Relational operators/Possible values of a variable/out/production/classes/
+/Topics/Relational operators/The result is true/out/
+/Topics/Relational operators/The result is true/out/production/classes/
+/Topics/Relational operators/Theory/out/
+/Topics/Relational operators/Theory/out/production/classes/
+/Topics/Static members/Time constants/out/
+/Topics/Static members/Time constants/out/production/classes/
+/Topics/Static members/Too many cats/out/
+/Topics/Static members/Too many cats/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
+/Topics/Switch statement/Direction/out/
+/Topics/Switch statement/Direction/out/production/classes/
+/Topics/Switch statement/Rewriting code using switch/out/
+/Topics/Switch statement/Rewriting code using switch/out/production/classes/
+/Topics/Switch statement/Statements/out/
+/Topics/Switch statement/Statements/out/production/classes/
+/Topics/Switch statement/Theory/out/
+/Topics/Switch statement/Theory/out/production/classes/
+/Topics/The for-loop/Fizz Buzz/out/
+/Topics/The for-loop/Fizz Buzz/out/production/classes/
+/Topics/The for-loop/Grades/out/
+/Topics/The for-loop/Grades/out/production/classes/
+/Topics/The for-loop/Such different for loops/out/
+/Topics/The for-loop/Such different for loops/out/production/classes/
+/Topics/The for-loop/The count of numbers divisible by N/out/
+/Topics/The for-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/The for-loop/The sum of integers from a to b/out/
+/Topics/The for-loop/The sum of integers from a to b/out/production/classes/
+/Topics/The for-loop/Theory/out/
+/Topics/The for-loop/Theory/out/production/classes/
+/Topics/The main method/Different declarations/out/
+/Topics/The main method/Different declarations/out/production/classes/
+/Topics/The main method/Fixing errors in main/out/
+/Topics/The main method/Fixing errors in main/out/production/classes/
+/Topics/The main method/Fixing the main method/out/
+/Topics/The main method/Fixing the main method/out/production/classes/
+/Topics/The main method/No main args/out/
+/Topics/The main method/No main args/out/production/classes/
+/Topics/The main method/Print  Hello, Java/out/
+/Topics/The main method/Print  Hello, Java/out/production/classes/
+/Topics/The main method/Select correct main method/out/
+/Topics/The main method/Select correct main method/out/production/classes/
+/Topics/The main method/The correct declaration/out/
+/Topics/The main method/The correct declaration/out/production/classes/
+/Topics/The main method/Theory/out/
+/Topics/The main method/Theory/out/production/classes/
+/Topics/The main method/Who is the main/out/
+/Topics/The main method/Who is the main/out/production/classes/
+/Topics/The while and do-while loops/Determine the result/out/
+/Topics/The while and do-while loops/Determine the result/out/production/classes/
+/Topics/The while and do-while loops/Profit/out/
+/Topics/The while and do-while loops/Profit/out/production/classes/
+/Topics/The while and do-while loops/Squares of natural numbers/out/
+/Topics/The while and do-while loops/Squares of natural numbers/out/production/classes/
+/Topics/The while and do-while loops/The smallest value/out/
+/Topics/The while and do-while loops/The smallest value/out/production/classes/
+/Topics/The while and do-while loops/Theory/out/
+/Topics/The while and do-while loops/Theory/out/production/classes/
